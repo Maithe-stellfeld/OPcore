@@ -1,0 +1,2 @@
+# OPcore
+ automacao inicial 
