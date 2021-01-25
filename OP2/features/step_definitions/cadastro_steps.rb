@@ -14,7 +14,7 @@ end
 
 
 Então('estou no primeiro tutorial e devo fechá-lo') do  
-    expect(page).to have_css'.#LinkButton1'
+    click_on "LinkButton1"
     
    
 
